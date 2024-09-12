@@ -1,0 +1,19 @@
+{
+  "name": "thai-qr-crc-16",
+  "author": {
+    "email": "ballsurakiat38@gmail.com",
+    "name": "BallSurakiat",
+    "url": "https://github.com/ballsurakiat"
+  },
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "dev": "tsc index.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "typescript": "^5.6.2"
+  }
+}
